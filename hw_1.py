@@ -1,0 +1,6 @@
+text_1 = input('Enter Your text here => ')
+text_2 = input('Enter Your text here => ')
+text_3 = input('Enter Your text here => ')
+print(text_1)
+print(text_2)
+print(text_3)
